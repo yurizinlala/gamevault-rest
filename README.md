@@ -2,6 +2,8 @@
 
 Este repositório contém a implementação de um CRUD completo para gerenciamento de jogos, com persistência dos dados em um arquivo JSON local. A aplicação é composta por um back-end em Node.js + Express e um front-end estático em HTML, CSS e JavaScript puro.
 
+Link do vídeo explicativo para visualizar o projeto em ação:
+
 ---
 
 ## 📋 Conteúdo
