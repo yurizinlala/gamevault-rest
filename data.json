@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Macacos: A Ordem",
+    "developer": "UERN Studios",
+    "genre": "Ação",
+    "releaseYear": 2024,
+    "platform": [
+      "PC"
+    ],
+    "rating": 8.3,
+    "status": "Abandonado"
+  },
+  {
+    "id": 3,
+    "title": "Xéxis Quest Deluxe",
+    "developer": "UERN Studios",
+    "genre": "Aventura",
+    "releaseYear": 2024,
+    "platform": [
+      "PC",
+      "Switch"
+    ],
+    "rating": 9.2,
+    "status": "Jogando"
+  }
+]
