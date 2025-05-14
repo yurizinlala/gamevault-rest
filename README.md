@@ -8,7 +8,7 @@ Link do vídeo explicativo para visualizar o projeto em ação:
 
 ## 📋 Conteúdo
 
-* `/backend`
+* `/rest`
 
   * `database.js`  – Funções de leitura/escrita em `data.json` e geração de IDs
   * `routes.js`    – Definição das rotas RESTful para operações CRUD
@@ -36,21 +36,14 @@ Link do vídeo explicativo para visualizar o projeto em ação:
 
 ## 🚀 Instalação e execução
 
-1. Clone o repositório:
+1. Instale dependências do back-end:
 
    ```bash
-   git clone <URL-do-repositório>
-   cd <nome-do-projeto>
+   cd rest
+   npm install express cors body-parser
    ```
 
-2. Instale dependências do back-end:
-
-   ```bash
-   cd backend
-   npm install
-   ```
-
-3. Inicie o servidor REST:
+2. Inicie o servidor REST:
 
    ```bash
    node server.js
